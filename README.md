@@ -13,9 +13,10 @@ This repository showcases four beginner-to-intermediate C projects: an interacti
 - Supports error handling for invalid inputs and division by zero.
 
 
+![image](https://github.com/user-attachments/assets/497c5b3d-261b-4c5f-af56-71c3c5127b4c)
+
 
  
-
 ### 🎮 **2. Colorful Tic-Tac-Toe**
 - Classic two-player Tic-Tac-Toe game with a vibrant CLI interface.
 - Features:
@@ -43,6 +44,10 @@ This repository showcases four beginner-to-intermediate C projects: an interacti
   - Add, View, Search, and Delete expenses.
 - Displays category-wise expense.
 - Calculates total expenses with real-time updates.
+
+
+
+![image](https://github.com/user-attachments/assets/90bb0ef0-ae21-419c-ba43-ab45e5145ebf)
 
 
 ---
