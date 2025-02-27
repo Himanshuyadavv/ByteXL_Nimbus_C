@@ -13,7 +13,7 @@ This repository showcases four beginner-to-intermediate C projects: an interacti
 - Supports error handling for invalid inputs and division by zero.
 
 
-![image](https://github.com/user-attachments/assets/875ca8d9-4bd9-4b7d-a166-f68649d0f9be)
+
  
 
 ### 🎮 **2. Colorful Tic-Tac-Toe**
@@ -22,6 +22,9 @@ This repository showcases four beginner-to-intermediate C projects: an interacti
   - Alternating turns between players 'X' and 'O'.
   - Colorful board display.
   - Win, lose, and draw conditions.
+
+
+![image](https://github.com/user-attachments/assets/875ca8d9-4bd9-4b7d-a166-f68649d0f9be)
 
 
 ### 🏦 **3. Advanced ATM Interface**
